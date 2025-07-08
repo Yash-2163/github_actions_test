@@ -16,9 +16,9 @@ env/
 .DS_Store
 
 # Model output
-final_model/
-*.pkl
-*.joblib
+# final_model/
+# *.pkl
+# *.joblib
 
 # Logs and temp files
 *.log
